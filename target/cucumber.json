@@ -1,0 +1,86 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 19648010100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.setUpAppium()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Validate Custom View",
+        "description": "",
+        "id": "validate-different-options;validate-custom-view",
+        "after": [
+          {
+            "result": {
+              "duration": 1193660800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 623226800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open the application",
+            "match": {
+              "location": "AppiumTests.i_open_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1211724100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I tap on Accessibility",
+            "match": {
+              "location": "AppiumTests.i_tap_on_accessibility()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 64207600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I validate Custom View",
+            "match": {
+              "location": "AppiumTests.i_validate_custom_view()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validate Different Options",
+    "description": "",
+    "id": "validate-different-options",
+    "keyword": "Feature",
+    "uri": "loginpage.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@appium"
+      }
+    ]
+  }
+]

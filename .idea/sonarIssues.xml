@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/org/appiumcucumber/AbstractClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/StepDefs/AppiumTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/features/loginpage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/org/appiumcucumber/AppiumBasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/runner/RunTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/utility/Hook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/main/java/com/groww/qa/mobile/pages/MutualFundDetailsPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/java/com/groww/qa/test/TestHelpAndSupportPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/java/com/groww/qa/test/TestMutualFundDetailsPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/java/com/groww/qa/test/TestPassportPhotoUploadPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/java/com/groww/qa/test/TestStocksPreorderPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/resources/groww-qa-mobileapp-mutualfundsuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/resources/groww-qa-mobileapp-test-corepodsuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/resources/groww-qa-mobileapp-test-onboardingsuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/25thNov2020_1/groww-qa/src/test/resources/locators/mutualfunddetailspage.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/Whitelisted apk Branch/5thJan2021/groww-qa/src/test/java/com/groww/qa/test/TestHelpAndSupportSanityPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/Whitelisted apk Branch/5thJan2021/groww-qa/src/test/java/com/groww/qa/test/TestStocksPreorderPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/Whitelisted apk Branch/5thJan2021/groww-qa/src/test/resources/groww-qa-mobileapp-mutualfundsuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/Whitelisted apk Branch/5thJan2021/groww-qa/src/test/resources/groww-qa-mobileapp-test-corepodsuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/Whitelisted apk Branch/5thJan2021/groww-qa/src/test/resources/groww-qa-mobileapp-test-helpandsupportsuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/Whitelisted apk Branch/5thJan2021/groww-qa/src/test/resources/groww-qa-mobileapp-test-onboardingsuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../groww/GrowwBitBucketLocal/Whitelisted apk Branch/5thJan2021/groww-qa/src/test/resources/groww-qa-mobileapp-test-paymentssuite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
