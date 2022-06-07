@@ -31,7 +31,7 @@ public class Hook {
         DesiredCapabilities cap = new DesiredCapabilities();
         cap.setCapability("platformName", "Android");
         cap.setCapability("deviceName", "Lucifer"); // set the device name before executing the scripts
-        cap.setCapability("appPath", System.getProperty("location of the apk")); //set the location of apk before executing the scripts
+        cap.setCapability("appPath", System.getProperty("src/test/resources/apk/ApiDemos-debug.apk")); //set the location of apk before executing the scripts
         cap.setCapability("appPackage","io.appium.android.apis");
         cap.setCapability("appActivity","io.appium.android.apis.ApiDemos");
         cap.setCapability("automationName","uiAutomator2");

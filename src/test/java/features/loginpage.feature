@@ -6,4 +6,9 @@
     When I tap on Accessibility
     Then I validate Custom View
 
+    Scenario: Validate scroll of screens using different methods
+      Given I tap on back button
+      When I scroll the View
+      Then I validate the text
+
 
